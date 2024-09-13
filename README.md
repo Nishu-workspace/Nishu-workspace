@@ -1,18 +1,21 @@
-## Hi there, Welcome to my profile. 
-I'm a freelancer who currenlty manages the social media communities.
 
+# Hi there, Welcome to my profile. 
+I'm Nishu, a normal college Student entering the World of 0s and 1s (lol), while freelancing to cover my expenses.
 
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,c,py,java,mongodb,mysql)](https://skillicons.dev)
+
+## FreeLancing Services
+- Management of Online Communitues
+  - Discord Server
+  - Instagram Page
+  - Google and Facebook Ads
+- Discord and Telegram Bot Development
+- Custom Websites (Fullstack: Frontend and Backend)
+- Graphics Design for Yt,X(Twitter) Banners and Thumbnails.
+
+  
 <!--
 **Nishu-workspace/Nishu-workspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
