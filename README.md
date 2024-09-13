@@ -7,7 +7,7 @@ I'm Nishu, a normal college Student entering the World of 0s and 1s (lol), while
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,c,py,java,mongodb,mysql)](https://skillicons.dev)
 
 ## FreeLancing Services
-- Management of Online Communitues
+- Management of Online Communities.
   - Discord Server
   - Instagram Page
   - Google and Facebook Ads
