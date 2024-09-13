@@ -15,6 +15,7 @@ I'm Nishu, a normal college Student entering the World of 0s and 1s (lol), while
 - Custom Websites (Fullstack: Frontend and Backend)
 - Graphics Design for Yt,X(Twitter) Banners and Thumbnails.
 
+💼 Looking to collaborate or hire me? Reach out through [email](mailto:nishu.workspace@gmail.com?subject=[GitHub]%20Collab%20or%20Hire).
   
 <!--
 **Nishu-workspace/Nishu-workspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
