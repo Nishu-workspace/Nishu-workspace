@@ -4,7 +4,7 @@ I'm Nishu, a normal college Student entering the World of 0s and 1s (lol), while
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,c,py,java,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,c,py,java,mongodb,mysql)](https://youtu.be/xvFZjo5PgG0?si=5EmQVk1Dgwc8I4oQ)
 
 ## FreeLancing Services
 - Management of Online Communities.
