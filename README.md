@@ -1,4 +1,6 @@
 ![](https://github.com/Nishu-workspace/Nishu-workspace/blob/df0fc2bca64dd619cebb249ba52378b99e2305ca/hi-there.gif)
+
+![](https://komarev.com/ghpvc/?username=Nishu-workspace&?abbreviated=true&?style=for-the-badge)
 # Hi there, Welcome to my profile. 
 I'm Nishu, a normal college Student entering the World of 0s and 1s (lol), while freelancing to cover my expenses.
 
